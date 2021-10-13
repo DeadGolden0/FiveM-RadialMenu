@@ -1,7 +1,7 @@
 # FiveM-RadialMenu
 
 # Preview
-https://streamable.com/ct8i3
+![script preview](https://github.com/YannisBnb/FiveM-RadialMenu/blob/main/preview.gif)
 
 # Description
 This mod adds the following:
