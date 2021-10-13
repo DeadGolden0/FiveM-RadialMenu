@@ -30,7 +30,7 @@ To add a job check to an option so only certain jobs will see it add the followi
 - Replace 'police' with your desired job.
 
 
-#LICENSE
+# LICENSE
 This mod was modified by 🍹 𝓓𝓔𝓐𝓓 with the intention to distribute.
 He and he alone reserves the right to sell this script. Reload does not give permission
 for resale but does give permission to alter/ edit the script for your own personal use.
